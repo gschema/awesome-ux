@@ -4,13 +4,13 @@ Curated list of awesome UX resources
 
 ## Contents
 
-- [Maturity Models](#maturity-models)
+- [UX Maturity Models](#ux-maturity-models)
 - [Heuristic Evaluation](#heuristic-evaluation)
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Cheat Sheets](#cheeat-sheets)
 
-## Maturity Models
+## UX Maturity Models
 
 - [Corporate UX Maturity: Stages 1-4 - Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-stages-1-4/)
 - [Corporate UX Maturity: Stages 5-8 - Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-stages-5-8/)
