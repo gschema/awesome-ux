@@ -8,6 +8,8 @@ Curated list of awesome UX resources
 ## Videos
 
 - [Putting Users in UX: Research Methods for Strategy](https://www.youtube.com/watch?v=_pZmdeD4u3Y)
+- [Putting Users in UX: Research Methods for Design](https://www.youtube.com/watch?v=umIa8cfuXjE)
+- [Putting Users in UX: Planning, Executing and Analyzing User Research](https://www.youtube.com/watch?v=A2zniNsJmsg)
 
 ## License
 
