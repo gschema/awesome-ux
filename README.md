@@ -4,13 +4,38 @@ Curated list of awesome UX resources
 
 ## Contents
 
+- [Maturity Models](#maturity-models)
+- [Heuristic Evaluation](#heuristic-evaluation)
 - [Videos](#videos)
+- [Blogs](#blogs)
+- [Cheat Sheets](#cheeat-sheets)
+
+## Maturity Models
+
+- [Corporate UX Maturity: Stages 1-4 - Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-stages-1-4/)
+- [Corporate UX Maturity: Stages 5-8 - Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-stages-5-8/)
+
+## Heuristic Evaluation
+
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ## Videos
 
+### Vision
+- [10 UX Challenges for the Next 25 Years (Jakob Nielsen Keynote)](https://www.youtube.com/watch?v=NvEmpLvtSTQ&t=3s)
+
+### Research
 - [Putting Users in UX: Research Methods for Strategy](https://www.youtube.com/watch?v=_pZmdeD4u3Y)
 - [Putting Users in UX: Research Methods for Design](https://www.youtube.com/watch?v=umIa8cfuXjE)
 - [Putting Users in UX: Planning, Executing and Analyzing User Research](https://www.youtube.com/watch?v=A2zniNsJmsg)
+
+## Blogs
+- [UX Matters](https://www.uxmatters.com)
+- [usability.gov](https://www.usability.gov/)
+
+## Cheat Sheets
+
+- [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
 ## License
 
