@@ -40,6 +40,11 @@ Curated list of awesome UX resources
 
 ## Backlog (to be processed):
 - https://www.nngroup.com/articles/ux-research-cheat-sheet/
+- https://www.nngroup.com/articles/quant-vs-qual/
+- https://www.nngroup.com/articles/personas-jobs-be-done/
+    https://www.nngroup.com/topic/personas/
+- https://www.nngroup.com/articles/field-studies/
+    https://www.nngroup.com/articles/tips-user-research-field/
 - https://www.ceros.com/originals/effectively-planning-ux-design-projects/
 - https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/
 - https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/
@@ -50,6 +55,10 @@ Curated list of awesome UX resources
 - https://usabilitygeek.com/start-here/
 - https://usabilitygeek.com/customer-journey-maps-create-technique/
 - https://www.nngroup.com/articles/measuring-perceived-usability/
+- https://www.nngroup.com/articles/test-tasks-quant-qualitative/
+- https://www.nngroup.com/topic/research-methods/
+- https://www.nngroup.com/articles/persona-budgets/
+- https://www.nngroup.com/articles/sketch-test/
 
 - https://www.google.com.au/search?q=User+flows&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvhvOa37nZAhXFXLwKHbi0B7cQ_AUICigB&biw=1680&bih=889#imgrc=bl6PWQ4cjJ1ihM:
 
