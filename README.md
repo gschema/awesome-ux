@@ -38,6 +38,22 @@ Curated list of awesome UX resources
 
 - [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
 
+## Backlog (to be processed):
+- https://www.nngroup.com/articles/ux-research-cheat-sheet/
+- https://www.ceros.com/originals/effectively-planning-ux-design-projects/
+- https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/
+- https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/
+- https://guiseppegetto.com/2015/03/04/a-lean-ux-workflow-for-smaller-organizations/
+- http://practicaluxmethods.com/
+- https://uxchecklist.github.io/
+- https://www.nngroup.com/articles/which-ux-research-methods/
+- https://usabilitygeek.com/start-here/
+- https://usabilitygeek.com/customer-journey-maps-create-technique/
+- https://www.nngroup.com/articles/measuring-perceived-usability/
+
+- https://www.google.com.au/search?q=User+flows&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvhvOa37nZAhXFXLwKHbi0B7cQ_AUICigB&biw=1680&bih=889#imgrc=bl6PWQ4cjJ1ihM:
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
