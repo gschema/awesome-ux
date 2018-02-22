@@ -42,9 +42,9 @@ Curated list of awesome UX resources
 - https://www.nngroup.com/articles/ux-research-cheat-sheet/
 - https://www.nngroup.com/articles/quant-vs-qual/
 - https://www.nngroup.com/articles/personas-jobs-be-done/
-    https://www.nngroup.com/topic/personas/
+- https://www.nngroup.com/topic/personas/
 - https://www.nngroup.com/articles/field-studies/
-    https://www.nngroup.com/articles/tips-user-research-field/
+- https://www.nngroup.com/articles/tips-user-research-field/
 - https://www.ceros.com/originals/effectively-planning-ux-design-projects/
 - https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/
 - https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/
