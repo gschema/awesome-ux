@@ -45,6 +45,8 @@ Curated list of awesome UX resources
 - https://www.nngroup.com/topic/personas/
 - https://www.nngroup.com/articles/field-studies/
 - https://www.nngroup.com/articles/tips-user-research-field/
+- https://www.uxmatters.com/mt/archives/2012/09/strengths-and-weaknesses-of-quantitative-and-qualitative-research.php
+- https://www.nngroup.com/articles/design-thinking/
 - https://www.ceros.com/originals/effectively-planning-ux-design-projects/
 - https://www.smashingmagazine.com/2018/01/comprehensive-guide-ux-research/
 - https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/
@@ -59,6 +61,19 @@ Curated list of awesome UX resources
 - https://www.nngroup.com/topic/research-methods/
 - https://www.nngroup.com/articles/persona-budgets/
 - https://www.nngroup.com/articles/sketch-test/
+- https://uxmastery.com/how-to-create-a-customer-journey-map/
+- https://www.nngroup.com/articles/ux-workshop-agendas/
+
+### Service Design
+- https://www.nngroup.com/articles/service-design-101/
+- https://www.nngroup.com/articles/service-blueprints-definition/
+- https://www.nngroup.com/articles/5-steps-service-blueprinting/
+
+- https://www.nngroup.com/articles/ux-workshop-agendas/
+
+- https://www.nngroup.com/articles/design-critiques/
+- https://www.nngroup.com/articles/ux-deliverables-collaboration/
+- https://www.nngroup.com/articles/ideation-in-practice/
 
 - https://www.google.com.au/search?q=User+flows&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvhvOa37nZAhXFXLwKHbi0B7cQ_AUICigB&biw=1680&bih=889#imgrc=bl6PWQ4cjJ1ihM:
 
