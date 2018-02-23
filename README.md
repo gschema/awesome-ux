@@ -68,9 +68,7 @@ Curated list of awesome UX resources
 - https://www.nngroup.com/articles/service-design-101/
 - https://www.nngroup.com/articles/service-blueprints-definition/
 - https://www.nngroup.com/articles/5-steps-service-blueprinting/
-
 - https://www.nngroup.com/articles/ux-workshop-agendas/
-
 - https://www.nngroup.com/articles/design-critiques/
 - https://www.nngroup.com/articles/ux-deliverables-collaboration/
 - https://www.nngroup.com/articles/ideation-in-practice/
