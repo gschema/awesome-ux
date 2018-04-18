@@ -20,6 +20,7 @@ Curated list of awesome UX resources
 - [Lessons In UX Maturity: Part 4 - Considering UX in the Whole Ecosystem](http://www.macadamian.com/2015/08/20/considering-ux-whole-ecosystem/)
 - [How Mature is Your Organization when it Comes to UX?](https://uxmag.com/articles/how-mature-is-your-organization-when-it-comes-to-ux)
 - [UX Maturity Model: A tool to improve collaboration with the UX team](https://uxstudioteam.com/ux-blog/ux-maturity-model/)
+- [How Do You Measure UX Maturity?](https://measuringu.com/ux-maturity/)
 
 ## Heuristic Evaluation
 
