@@ -68,19 +68,6 @@ Curated list of awesome UX resources
 - https://uxmastery.com/how-to-create-a-customer-journey-map/
 - https://www.nngroup.com/articles/ux-workshop-agendas/
 
-### Service Design
-
-- https://www.nngroup.com/articles/service-design-101/
-- https://www.nngroup.com/articles/service-blueprints-definition/
-- https://www.nngroup.com/articles/5-steps-service-blueprinting/
-- https://www.nngroup.com/articles/ux-workshop-agendas/
-- https://www.nngroup.com/articles/design-critiques/
-- https://www.nngroup.com/articles/ux-deliverables-collaboration/
-- https://www.nngroup.com/articles/ideation-in-practice/
-
-### Log:
-- https://www.google.com.au/search?q=User+flows&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvhvOa37nZAhXFXLwKHbi0B7cQ_AUICigB&biw=1680&bih=889#imgrc=bl6PWQ4cjJ1ihM:
-
 
 ## License
 
