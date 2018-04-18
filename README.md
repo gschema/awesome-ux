@@ -15,6 +15,10 @@ Curated list of awesome UX resources
 
 - [Corporate UX Maturity: Stages 1-4 - Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-stages-1-4/)
 - [Corporate UX Maturity: Stages 5-8 - Nielsen Norman Group](https://www.nngroup.com/articles/ux-maturity-stages-5-8/)
+- [6 Indicators of an Organizations UX Maturity Level – Lessons In UX Maturity: Part 1](http://www.macadamian.com/2015/08/20/indicators-of-user-experience-maturity/)
+- [Consequences of an Underutilized UX Team – Lessons in UX Maturity: Part 2](http://www.macadamian.com/2015/08/20/underutilized-user-experience-team/)
+- [Bringing UX to a Legacy Product Revitalization – Lessons In UX Maturity: Part 3](http://www.macadamian.com/2015/08/20/bringing-ux-to-a-legacy-product/)
+- [http://www.macadamian.com/2015/08/20/considering-ux-whole-ecosystem/](http://www.macadamian.com/2015/08/20/considering-ux-whole-ecosystem/)
 
 ## Heuristic Evaluation
 
