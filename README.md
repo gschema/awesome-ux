@@ -11,7 +11,7 @@ Curated list of awesome UX resources
 - [Tools](#tools)
 - [Blogs](#blogs)
 - [Books](#books)
-- [Cheat Sheets](#cheeat-sheets)
+- [Cheat Sheets](#cheat-sheets)
 
 ## General
 
