@@ -76,7 +76,7 @@ Curated list of awesome UX resources
 - [How To Create Customer Journey Map](https://uxmastery.com/how-to-create-a-customer-journey-map/)
 - [Customer Journey Maps – A ‘Quick And Dirty’ Technique To Create Them by usabilitygeek.com](https://usabilitygeek.com/customer-journey-maps-create-technique/)
 
-## UX Temlates
+## UX Templates
 
 - [UX Templates by uxmastery.com](https://uxmastery.com/resources/templates/)
 - [Templates & Downloadable Documents by usability.gov](https://www.usability.gov/how-to-and-tools/resources/templates.html)
