@@ -1,6 +1,5 @@
 # Awesome UX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
 Curated list of awesome UX resources
 
 ## Contents
@@ -19,6 +18,8 @@ Curated list of awesome UX resources
 - [Lessons in UX Maturity: Part 2 - Consequences of an Underutilized UX Team](http://www.macadamian.com/2015/08/20/underutilized-user-experience-team/)
 - [Lessons In UX Maturity: Part 3 - Bringing UX to a Legacy Product Revitalization](http://www.macadamian.com/2015/08/20/bringing-ux-to-a-legacy-product/)
 - [Lessons In UX Maturity: Part 4 - Considering UX in the Whole Ecosystem](http://www.macadamian.com/2015/08/20/considering-ux-whole-ecosystem/)
+- [How Mature is Your Organization when it Comes to UX?](https://uxmag.com/articles/how-mature-is-your-organization-when-it-comes-to-ux)
+- [UX Maturity Model: A tool to improve collaboration with the UX team](https://uxstudioteam.com/ux-blog/ux-maturity-model/)
 
 ## Heuristic Evaluation
 
@@ -41,6 +42,7 @@ Curated list of awesome UX resources
 ## Cheat Sheets
 
 - [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/)
+- https://uxchecklist.github.io/
 
 ## Backlog (to be processed):
 - https://www.nngroup.com/articles/ux-research-cheat-sheet/
@@ -56,7 +58,7 @@ Curated list of awesome UX resources
 - https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/
 - https://guiseppegetto.com/2015/03/04/a-lean-ux-workflow-for-smaller-organizations/
 - http://practicaluxmethods.com/
-- https://uxchecklist.github.io/
+
 - https://www.nngroup.com/articles/which-ux-research-methods/
 - https://usabilitygeek.com/start-here/
 - https://usabilitygeek.com/customer-journey-maps-create-technique/
