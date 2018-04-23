@@ -7,7 +7,7 @@ Curated list of awesome UX resources
 - [General](#general)
 - [UX Maturity Models](#ux-maturity-models)
 - [Research Methods](#research-methods)
-- [UX Temlates](#ux-templates)
+- [UX Templates](#ux-templates)
 - [Tools](#tools)
 - [Blogs](#blogs)
 - [Books](#books)
