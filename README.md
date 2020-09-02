@@ -1,6 +1,6 @@
 # Awesome UX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of awesome UX resources
+A curated list of awesome UX resources
 
 ## Contents
 
